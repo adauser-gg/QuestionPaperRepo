@@ -3,7 +3,7 @@
 ## 1. Objective and Scope
 The goal of this project is to architect and develop a robust, local Command-Line Question Paper Manager. The software must serve as an automated backend and text-based frontend for university administrators to catalog past examination papers, while simultaneously allowing students to retrieve and filter these records. 
 
-To satisfy the grading rubrics of the course evaluation, this project focuses heavily on backend architectural paradigms, data persistence, thread safety, and memory-based data manipulation, rather than graphical aesthetics.
+This project focuses heavily on backend architectural paradigms, data persistence, thread safety, and memory-based data manipulation, prioritizing core functionality over graphical aesthetics.
 
 ## 2. Hard Constraints & Limitations
 - **Terminal Exclusive (ZERO GUI)**: The application must be 100% executable from a headless command-line terminal. The use of graphical rendering libraries (such as `javax.swing`, `java.awt`, or JavaFX) will result in automatic disqualification.
@@ -16,7 +16,7 @@ The system must handle two distinct user roles with strict separation of privile
 - **Students**: Possess Read-Only permissions. They can fetch the entire repository of question papers, or apply search filters (by Year or Tag) to isolate relevant materials.
 
 ## 4. Technical Syllabus Integration Requirements
-The codebase must be engineered to explicitly demonstrate mastery of the following course concepts, ensuring they are easily identifiable by static code analysis and AI-based evaluation pipelines:
+The codebase is engineered to explicitly demonstrate mastery of the following core Java concepts, ensuring a robust and maintainable architecture:
 
 1. **Object-Oriented Programming (OOP)**
    - Must implement abstract classes demonstrating Encapsulation.

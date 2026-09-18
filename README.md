@@ -1,10 +1,10 @@
 # Command-Line Question Paper & Repository Manager
 
 ## Project Overview
-This project is a 100% Command-Line Interface (CLI) application built for university course evaluation. It acts as a digital repository manager where administrators can store and manage university question papers, and students can search and filter them. The project strictly avoids any Graphical User Interface (GUI) frameworks (like Swing or JavaFX) to comply with execution constraints.
+This project is a robust, 100% Command-Line Interface (CLI) application. It acts as a digital repository manager where administrators can store and manage university question papers, and students can search and filter them. The project strictly avoids any Graphical User Interface (GUI) frameworks (like Swing or JavaFX) to ensure lightweight, headless execution.
 
 ## Syllabus Alignment & Technical Implementation
-This project was explicitly designed to demonstrate proficiency in Core Java concepts outlined in the course syllabus. The automated evaluation pipeline will find these implementations in the following locations:
+This project is explicitly designed to demonstrate proficiency in Core Java concepts. Key architectural patterns and implementations can be found in the following locations:
 
 1. **Object-Oriented Programming (OOP)**
    - *Location*: `src/User.java`, `src/QuestionPaper.java`
