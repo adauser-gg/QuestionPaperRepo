@@ -1,0 +1,29 @@
+As part of the flipped course evaluation process you need to submit a project, You can choose Any Project From the Course Domain
+
+Click Here For The Instruction Document
+
+HOW TO SUBMIT
+
+GitHub Repository
+Your repository must be set to Public visibility before submission. Private repositories will not be accessible during evaluation and will result in rejection.
+Submit the repository root URL strictly in the following format: https://github.com/{github-username}/{repo-name}
+Do not submit a tree URL (e.g., URLs containing /tree/main/ or /blob/). Submitting an incorrect or malformed repository link will result in automatic rejection of your submission, with no exceptions.
+
+README File
+Your repository must contain a README.md at the root level.
+The README must include clear, step-by-step instructions on how to set up and run the project — covering environment setup, dependency installation, configuration, and execution.
+Assume the evaluator has no prior context about your project.
+
+Project Executability
+Your project must be fully executable via the command line. Submissions that cannot be run from a terminal environment without a GUI-based setup will be penalized during evaluation.
+
+Project Report
+A structured project report must be submitted along with the repository link via the platform. Refer to the course page for the expected report format.
+EVALUATION PROCESS
+Evaluation is automated and the evaluation rubric is given in the attached document.
+Important: The evaluation pipeline includes both plagiarism detection and AI-generated content detection. All submitted work must be your own. Submissions flagged by either detection system will be reviewed and may result in disqualification.
+SUBMISSION POLICY
+You may update your submission at any point before the submission deadline. Each update overwrites the previous submission.
+Once evaluation has been triggered, re-submissions are not permitted under any circumstances — including cases where the evaluation results in 0 marks.
+If your submission is rejected (e.g., due to an inaccessible repository, incorrect URL format, or missing components), you will be allowed to resubmit and correct the issue before the deadline.
+If you encounter any technical issues with the submission portal, contact support through the VITyarthi platform.
